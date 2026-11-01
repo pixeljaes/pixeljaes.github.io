@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.pixeljaes.kamiai",
+      "sha256_cert_fingerprints": ["6E:F1:4A:18:36:28:ED:BA:6E:61:27:38:4C:FB:68:F5:F0:B7:95:D0:AD:B2:3C:75:C1:D0:46:17:96:78:E3:0C"]
+    }
+  }
+]
